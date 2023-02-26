@@ -12,5 +12,3 @@ function sleepIn(weekday, vacation) {
   if (!weekday && vacation) return true;
   if (!weekday && !vacation) return true;
 }
-sleepIn();
-console.log(sleepIn(true, true));
