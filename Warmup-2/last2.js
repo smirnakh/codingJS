@@ -15,3 +15,4 @@ function last2(str) {
   }
   return count;
 }
+console.log(last2('hixxhi'));
